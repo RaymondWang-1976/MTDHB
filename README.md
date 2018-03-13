@@ -2,7 +2,9 @@
 
 [![GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](LICENSE)
 
-> 新版红包辅助正在开发（试运行）中，稳定后网站会开源。
+> 正在开发（试运行）中，稳定后网站会开源。
+
+[查看项目进度](https://github.com/game-helper/hongbao2/projects/1)
 
 ## 介绍
 
