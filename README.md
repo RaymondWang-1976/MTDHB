@@ -24,7 +24,7 @@
   <tr></tr>
   <tr>
     <td align="center" width="250">
-      <img src="https://user-images.githubusercontent.com/8413791/37241434-f02d930c-2493-11e8-8317-67499d55311b.png"><p>请加上面的微信号邀请你入群</p>
+      <img src="https://user-images.githubusercontent.com/8413791/37555596-dfdc7a86-2a24-11e8-970a-93871e8f2836.png"><p>请加上面的微信号邀请你入群</p>
     </td>
     <td align="center" width="250">
       <a href="https://shang.qq.com/wpa/qunwpa?idkey=ce7ff4d1b5050c3bafff8f16c3cae4b1eec37916053865b86527347d680e03ec">246080018（满）</a>
