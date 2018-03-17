@@ -2,21 +2,7 @@
 
 [![GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](LICENSE)
 
-> 已上线（试运行）中，稳定后网站会开源。[查看开发进度](https://github.com/game-helper/hongbao2/projects/1)
-
-## 统计
-
-### 2018-03-17
-
-上线第二天，注册用户 `3769` 位，领取大红包 `575` 个，总金额 `3346` 元
-
-<table>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/8413791/37557135-1b7dca02-2a3b-11e8-8590-b7232cc203fc.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/8413791/37557124-e32cdc38-2a3a-11e8-810b-486601bcae99.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/8413791/37557113-c8a4768c-2a3a-11e8-9119-a0c317ca9d3a.png"></td>
-  </tr>
-</table>
+> 已上线（试运行中），稳定后网站会开源。[查看开发进度](https://github.com/game-helper/hongbao2/projects/1)
 
 ## 介绍
 
@@ -29,11 +15,11 @@
 ## 交流群
 
 <table>
+  <tr></tr>
   <tr>
     <th>微信群</th>
     <th>QQ 群</th>
   </tr>
-  <tr></tr>
   <tr>
     <td align="center" width="250">
       <img src="https://user-images.githubusercontent.com/8413791/37555596-dfdc7a86-2a24-11e8-970a-93871e8f2836.png"><p>请加上面的微信号邀请你入群</p>
@@ -42,6 +28,24 @@
       <a href="https://shang.qq.com/wpa/qunwpa?idkey=ce7ff4d1b5050c3bafff8f16c3cae4b1eec37916053865b86527347d680e03ec">246080018（满）</a>
       <a href="https://shang.qq.com/wpa/qunwpa?idkey=c897fa012682ff216e4256fad51df70ee6c6695813cff065371e262302da62f9">583997433（新）</a>
     </td>
+  </tr>
+</table>
+
+## 统计
+
+### 2018-03-17 上线第 2 天
+
+<table>
+  <tr></tr>
+  <tr>
+    <td>注册用户 3769 位</td>
+    <td>领取大红包 575 个</td>
+    <td>总金额 3346 元</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/8413791/37557135-1b7dca02-2a3b-11e8-8590-b7232cc203fc.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/8413791/37557124-e32cdc38-2a3a-11e8-810b-486601bcae99.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/8413791/37557113-c8a4768c-2a3a-11e8-9119-a0c317ca9d3a.png"></td>
   </tr>
 </table>
 
