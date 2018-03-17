@@ -2,9 +2,21 @@
 
 [![GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](LICENSE)
 
-> 正在开发（试运行）中，稳定后网站会开源。
+> 已上线（试运行）中，稳定后网站会开源。[查看开发进度](https://github.com/game-helper/hongbao2/projects/1)
 
-[查看项目进度](https://github.com/game-helper/hongbao2/projects/1)
+## 统计
+
+### 2018-03-17
+
+上线第二天，注册用户 `3769` 位，领取大红包 `575` 个，红包总金额 `3346` 元
+
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/8413791/37557135-1b7dca02-2a3b-11e8-8590-b7232cc203fc.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/8413791/37557124-e32cdc38-2a3a-11e8-810b-486601bcae99.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/8413791/37557113-c8a4768c-2a3a-11e8-9119-a0c317ca9d3a.png"></td>
+  </tr>
+</table>
 
 ## 介绍
 
