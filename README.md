@@ -33,21 +33,13 @@
 
 ## 统计
 
-### 2018-03-17 上线第 2 天
+### 2018-03-19
 
-<table>
-  <tr></tr>
-  <tr>
-    <td>注册用户 3769 位</td>
-    <td>领取大红包 575 个</td>
-    <td>总金额 3346 元</td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/8413791/37557135-1b7dca02-2a3b-11e8-8590-b7232cc203fc.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/8413791/37557124-e32cdc38-2a3a-11e8-810b-486601bcae99.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/8413791/37557113-c8a4768c-2a3a-11e8-9119-a0c317ca9d3a.png"></td>
-  </tr>
-</table>
+上线第 4 天，注册用户 4226 位，领取大红包 1657 个，总金额 9679.10 元
+
+### 2018-03-17 
+
+上线第 2 天，注册用户 3769 位，领取大红包 575 个，总金额 3346.00 元
 
 ## 捐赠
 
