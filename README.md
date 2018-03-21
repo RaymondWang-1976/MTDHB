@@ -4,6 +4,8 @@
 
 > 已上线（试运行中），稳定后网站会开源。[查看开发进度](https://github.com/game-helper/hongbao2/projects/1)
 
+2018-03-21 饿了么无法使用 QQ 授权登录了，看这里 ([#47](https://github.com/game-helper/hongbao2/issues/47))
+
 ## 介绍
 
 由于饿了么、美团对旧版辅助 [game-helper/hongbao](https://github.com/game-helper/hongbao) 增加了一些限制，导致无法继续为大家提供公共服务。
@@ -36,10 +38,6 @@
 ### 2018-03-19
 
 上线第 4 天，注册用户 4226 位，领取大红包 1657 个，总金额 9679.10 元
-
-### 2018-03-17 
-
-上线第 2 天，注册用户 3769 位，领取大红包 575 个，总金额 3346.00 元
 
 ## 捐赠
 
