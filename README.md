@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td align="center" width="250">
-      <img src="https://user-images.githubusercontent.com/8413791/37555596-dfdc7a86-2a24-11e8-970a-93871e8f2836.png"><p>请加上面的微信号邀请你入群</p>
+      <img src="https://user-images.githubusercontent.com/8413791/37864582-0ec07f64-2fac-11e8-88dc-a5464a5f6e8f.png"><p>请加上面的微信号邀请你入群</p>
     </td>
     <td align="center" width="250">
       <table>
