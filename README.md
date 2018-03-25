@@ -14,6 +14,10 @@
 
 欢迎大家注册和使用 http://www.mtdhb.com/ ，遇到任何问题欢迎提 issue 或者在群里反馈给我们。
 
+## 推荐
+
+- [game-helper/hongbao2-cookie](https://github.com/game-helper/hongbao2-cookie) - 美团、饿了么 cookie 一键提取工具
+
 ## 交流群
 
 <table>
@@ -35,12 +39,6 @@
     </td>
   </tr>
 </table>
-
-## 统计
-
-### 2018-03-19
-
-上线第 4 天，注册用户 4226 位，领取大红包 1657 个，总金额 9679.10 元
 
 ## 捐赠
 
