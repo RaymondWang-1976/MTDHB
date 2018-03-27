@@ -14,9 +14,10 @@
 
 欢迎大家注册和使用 https://www.mtdhb.com ，遇到任何问题欢迎提 issue 或者在群里反馈给我们。
 
-## 推荐
+## 子项目
 
-- [game-helper/hongbao2-cookie](https://github.com/game-helper/hongbao2-cookie) - 美团、饿了么 cookie 一键提取工具
+- [hongbao2-web](https://github.com/game-helper/hongbao2-web) - 网页端
+- [hongbao2-cookie](https://github.com/game-helper/hongbao2-cookie) - 美团、饿了么 cookie 一键提取工具
 
 ## 交流群
 
