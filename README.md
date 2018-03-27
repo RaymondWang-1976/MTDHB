@@ -17,7 +17,7 @@
 ## 子项目
 
 - [hongbao2-web](https://github.com/game-helper/hongbao2-web) - 网页端
-- [hongbao2-cookie](https://github.com/game-helper/hongbao2-cookie) - 美团、饿了么 cookie 一键提取工具
+- [hongbao2-cookie](https://github.com/game-helper/hongbao2-cookie) - cookie 提取工具
 
 ## 交流群
 
