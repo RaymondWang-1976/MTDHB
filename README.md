@@ -2,7 +2,7 @@
 
 [![GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](LICENSE)
 
-> 已上线（试运行中），稳定后网站会开源。[查看开发进度](https://github.com/game-helper/hongbao2/projects/1)
+> 已上线（试运行中），网站逐步开源。[查看开发进度](https://github.com/game-helper/hongbao2/projects/1)
 
 饿了么无法使用 QQ 授权登录了，看这里 ([#47](https://github.com/game-helper/hongbao2/issues/47))
 
