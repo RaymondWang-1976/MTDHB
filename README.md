@@ -4,8 +4,6 @@
 
 > 已上线（试运行中），网站逐步开源。[查看开发进度](https://github.com/game-helper/hongbao2/projects/1)
 
-饿了么无法使用 QQ 授权登录了，看这里 ([#47](https://github.com/game-helper/hongbao2/issues/47))
-
 ## 介绍
 
 由于饿了么、美团对旧版辅助 [game-helper/hongbao](https://github.com/game-helper/hongbao) 增加了一些限制，导致无法继续为大家提供公共服务。
