@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td align="center" width="250">
-      <img src="https://note.youdao.com/yws/api/personal/file/58B17F3D8FEF477F9093D81814BDD4AA?method=download&shareKey=e4a1ab8f78b373e823eefd0cf6c5baaf"><p>请加上面的微信号邀请你入群</p>
+      <img src="https://user-images.githubusercontent.com/8413791/38773412-3e896818-407e-11e8-84d4-842fa3b04d08.png"><p>请加上面的微信号邀请你入群</p>
     </td>
     <td align="center" width="250">
       <table>
