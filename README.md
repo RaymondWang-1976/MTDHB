@@ -39,6 +39,44 @@
   </tr>
 </table>
 
+## 开发者
+
+<table>
+  <tr>
+    <td align="center">服务端</td>
+    <td align="center">web 端</td>
+    <td align="center">包工头</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/huangdenghe">
+        <img width="100" src="https://avatars2.githubusercontent.com/u/10628154?s=460&v=4" alt="avatar">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cooljser">
+        <img width="100" src="https://avatars3.githubusercontent.com/u/13159812?s=460&v=4" alt="avatar">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zhuweiyou">
+        <img width="100" src="https://avatars3.githubusercontent.com/u/8413791?s=460&v=4" alt="avatar">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/huangdenghe">huangdenghe</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/duminghong">cooljser</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zhuweiyou">zhuweiyou</a>
+    </td>
+  </tr>
+</table>
+
 ## 捐赠
 
 [如果我们的项目对您有帮助，欢迎捐赠](https://github.com/game-helper/donate)
