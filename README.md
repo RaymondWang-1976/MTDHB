@@ -15,7 +15,7 @@
 ## 子项目
 
 - [hongbao2-web](https://github.com/game-helper/hongbao2-web) - 网页端
-- [hongbao2-mp]((https://github.com/game-helper/hongbao2-mp) - 微信小程序 “一键最佳”
+- [hongbao2-mp](https://github.com/game-helper/hongbao2-mp) - 微信小程序 “一键最佳”
 - [hongbao2-cookie](https://github.com/game-helper/hongbao2-cookie) - cookie 提取工具
 
 ## 交流群
