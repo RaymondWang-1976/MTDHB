@@ -1,12 +1,12 @@
-# hongbao2
+# mtdhb
 
 [![GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](LICENSE)
 
-> 已上线（试运行中），网站逐步开源。[查看开发进度](https://github.com/game-helper/hongbao2/projects/1)
+> 已上线（试运行中），网站逐步开源。[查看开发进度](https://github.com/mtdhb/mtdhb/projects/1)
 
 ## 介绍
 
-由于饿了么、美团对旧版辅助 [game-helper/hongbao](https://github.com/game-helper/hongbao) 增加了一些限制，导致无法继续为大家提供公共服务。
+由于饿了么、美团对旧版辅助 [mtdhb/old](https://github.com/mtdhb/old) 增加了一些限制，导致无法继续为大家提供公共服务。
 
 故开发了一个大家一起贡献小号的平台，贡献小号的朋友，依旧可以享受一键领取手气最佳红包（贡献越多，可领取最佳次数越多），并且我们会随时跟上饿了么、美团的更新。
 
@@ -14,9 +14,9 @@
 
 ## 子项目
 
-- [hongbao2-web](https://github.com/game-helper/hongbao2-web) - 网页端
-- [hongbao2-mp](https://github.com/game-helper/hongbao2-mp) - 微信小程序 “一键最佳”
-- [hongbao2-cookie](https://github.com/game-helper/hongbao2-cookie) - cookie 提取工具
+- [mtdhb/www](https://github.com/mtdhb/www) - 网页端
+- [mtdhb/mp](https://github.com/mtdhb/mp) - 微信小程序 “一键最佳”
+- [mtdhb/cookie](https://github.com/mtdhb/cookie) - cookie 提取工具
 
 ## 交流群
 
@@ -45,7 +45,7 @@
 <table>
   <tr>
     <td align="center">服务端</td>
-    <td align="center">web 端</td>
+    <td align="center">网页端</td>
     <td align="center">包工头</td>
   </tr>
   <tr>
@@ -74,4 +74,4 @@
 
 ## 捐赠
 
-[如果我们的项目对您有帮助，欢迎捐赠](https://github.com/game-helper/donate)
+[如果我们的项目对您有帮助，欢迎捐赠](https://github.com/mtdhb/donate)
