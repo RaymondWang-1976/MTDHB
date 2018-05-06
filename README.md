@@ -12,12 +12,6 @@
 
 欢迎大家注册和使用 https://www.mtdhb.com ，遇到任何问题欢迎提 issue 或者在群里反馈给我们。
 
-## 子项目
-
-- [mtdhb/www](https://github.com/mtdhb/www) - 网页端
-- [mtdhb/mp](https://github.com/mtdhb/mp) - 微信小程序 “一键最佳”
-- [mtdhb/cookie](https://github.com/mtdhb/cookie) - cookie 提取工具
-
 ## 交流群
 
 <table>
@@ -71,7 +65,3 @@
     <td align="center"><a href="https://github.com/zhuweiyou">zhuweiyou</a></td>
   </tr>
 </table>
-
-## 捐赠
-
-[如果我们的项目对您有帮助，欢迎捐赠](https://github.com/mtdhb/donate)
