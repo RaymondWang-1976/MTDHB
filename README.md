@@ -12,11 +12,9 @@
 
 欢迎大家注册和使用 https://www.mtdhb.com ，遇到任何问题欢迎提 issue 或者在群里反馈给我们。
 
-## 子项目
+## 查看子项目
 
-- [mtdhb/www](https://github.com/mtdhb/www) - 网页版
-- [mtdhb/mp](https://github.com/mtdhb/mp) - 微信小程序
-- [mtdhb/cookie](https://github.com/mtdhb/cookie) - cookie 提取工具
+https://github.com/mtdhb
 
 ## 交流群
 
