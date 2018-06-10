@@ -2,7 +2,21 @@
 
 [![GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](LICENSE)
 
-> 已上线（试运行中），网站逐步开源。[查看开发进度](https://github.com/mtdhb/mtdhb/projects/1)
+本站已完全开源，欢迎 star
+
+## 子项目
+
+https://github.com/mtdhb
+
+* [mtdhb/api](https://github.com/mtdhb/api) - 服务端（https://api.mtdhb.com）
+* [mtdhb/donate](https://github.com/mtdhb/donate) - 捐赠我们
+* [mtdhb/cookie](https://github.com/mtdhb/cookie) - cookie 提取工具
+* [mtdhb/get](https://github.com/mtdhb/get) - 领取端
+* [mtdhb/gitalk](https://github.com/mtdhb/gitalk) - 网页端留言区
+* [mtdhb/mp](https://github.com/mtdhb/mp) - 微信小程序 “一键最佳”
+* [mtdhb/old](https://github.com/mtdhb/old) - 旧版（不再维护，仅供参考）
+* [mtdhb/qqbot](https://github.com/mtdhb/qqbot) - QQ 机器人
+* [mtdhb/www](https://github.com/mtdhb/www) - 网页端
 
 ## 介绍
 
@@ -11,10 +25,6 @@
 故开发了一个大家一起贡献小号的平台，贡献小号的朋友，依旧可以享受一键领取手气最佳红包（贡献越多，可领取最佳次数越多），并且我们会随时跟上饿了么、美团的更新。
 
 欢迎大家注册和使用 https://www.mtdhb.com ，遇到任何问题欢迎提 issue 或者在群里反馈给我们。
-
-## 查看子项目
-
-https://github.com/mtdhb
 
 ## 交流群
 
@@ -38,34 +48,3 @@ https://github.com/mtdhb
   </tr>
 </table>
 
-## 开发者
-
-<table>
-  <tr>
-    <td align="center">服务端</td>
-    <td align="center">网页端</td>
-    <td align="center">包工头</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/huangdenghe">
-        <img width="120" src="https://avatars2.githubusercontent.com/u/10628154?s=460&v=4" alt="avatar">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/cooljser">
-        <img width="120" src="https://avatars3.githubusercontent.com/u/13159812?s=460&v=4" alt="avatar">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zhuweiyou">
-        <img width="120" src="https://avatars3.githubusercontent.com/u/8413791?s=460&v=4" alt="avatar">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/huangdenghe">huangdenghe</a></td>
-    <td align="center"><a href="https://github.com/duminghong">cooljser</a></td>
-    <td align="center"><a href="https://github.com/zhuweiyou">zhuweiyou</a></td>
-  </tr>
-</table>
