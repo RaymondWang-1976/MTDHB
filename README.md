@@ -8,7 +8,7 @@
 
 https://github.com/mtdhb
 
-* [mtdhb/api](https://github.com/mtdhb/api) - 服务端（https://api.mtdhb.com）
+* [mtdhb/api](https://github.com/mtdhb/api) - 服务端
 * [mtdhb/donate](https://github.com/mtdhb/donate) - 捐赠我们
 * [mtdhb/cookie](https://github.com/mtdhb/cookie) - cookie 提取工具
 * [mtdhb/get](https://github.com/mtdhb/get) - 领取端
