@@ -29,10 +29,10 @@
     <th>QQ 群</th>
   </tr>
   <tr>
-    <td align="center" width="250">
+    <td align="center" width="300">
       <img src="https://user-images.githubusercontent.com/8413791/38773412-3e896818-407e-11e8-84d4-842fa3b04d08.png"><p>请加上面的微信号邀请你入群</p>
     </td>
-    <td align="center" width="250">
+    <td align="center" width="300">
       <table>
         <tr><td>246080018（满）</td></tr>
         <tr><td>583997433（满）</td></tr>
