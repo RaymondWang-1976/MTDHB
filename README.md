@@ -32,12 +32,12 @@
     <td align="center" width="300">
       <img src="https://user-images.githubusercontent.com/8413791/38773412-3e896818-407e-11e8-84d4-842fa3b04d08.png"><p>请加上面的微信号邀请你入群</p>
     </td>
-    <td align="center" width="300">
+    <td align="center" width="400">
       <table>
-        <tr><td>246080018（满）</td></tr>
-        <tr><td>583997433（满）</td></tr>
-        <tr><td><a href="https://shang.qq.com/wpa/qunwpa?idkey=716520d506845906eb56c91c53e3213ceaddbd99f704c4afa6c1761b388311db">617166836（新）</a></td></tr>
-        <tr><td><a target="_blank" href="https://shang.qq.com/wpa/qunwpa?idkey=044ec0051ca47b98ae0aa4dbd757e21b21f14d7d506a6216a66ea0d9d359684d">452599197（软件开发交流）</a></td></tr>
+        <tr><td>1群：246080018（即将扩容2000人）</td></tr>
+        <tr><td>2群：583997433（500人）</td></tr>
+        <tr><td>3群：617166836（2000人）</td></tr>
+        <tr><td>452599197（软件开发交流）</td></tr>
       </table>
     </td>
   </tr>
