@@ -71,7 +71,7 @@
   </tr>	
   <tr></tr>
   <tr>	
-    <td align="center"><a href="https://github.com/duminghong">cooljser</a></td>	
+    <td align="center"><a href="https://github.com/cooljser">cooljser</a></td>	
     <td align="center"><a href="https://github.com/huangdenghe">huangdenghe</a></td>	
     <td align="center"><a href="https://github.com/zhuweiyou">zhuweiyou</a></td>	
   </tr>	
