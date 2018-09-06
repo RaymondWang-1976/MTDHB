@@ -43,40 +43,6 @@
   </tr>
 </table>
 
-## 核心成员
-
-<table>
-  <tr>	
-    <td align="center">创始人</td>	
-    <td align="center">服务端</td>	
-    <td align="center">包工头</td>	
-  </tr>	
-  <tr></tr>
-  <tr>	
-    <td align="center">	
-      <a href="https://github.com/cooljser">	
-        <img width="120" src="https://avatars3.githubusercontent.com/u/13159812?s=460&v=4" alt="avatar">	
-      </a>	
-    </td>	
-    <td align="center">	
-      <a href="https://github.com/huangdenghe">	
-        <img width="120" src="https://avatars2.githubusercontent.com/u/10628154?s=460&v=4" alt="avatar">	
-      </a>	
-    </td>	
-    <td align="center">	
-      <a href="https://github.com/zhuweiyou">	
-        <img width="120" src="https://avatars3.githubusercontent.com/u/8413791?s=460&v=4" alt="avatar">	
-      </a>	
-    </td>	
-  </tr>	
-  <tr></tr>
-  <tr>	
-    <td align="center"><a href="https://github.com/cooljser">cooljser</a></td>	
-    <td align="center"><a href="https://github.com/huangdenghe">huangdenghe</a></td>	
-    <td align="center"><a href="https://github.com/zhuweiyou">zhuweiyou</a></td>	
-  </tr>	
-</table>
-
 ## 捐赠我们
 
 <table>
@@ -90,4 +56,8 @@
     <td><img width="70%" src="https://user-images.githubusercontent.com/8413791/35776841-9c5192a8-09de-11e8-80d7-cb718e40b3c5.png"></td>
   </tr>
 </table>
+
+## 免责声明
+
+软件仅供技术交流，请勿用于商业及非法用途，如产生法律纠纷与本团队无关
 
