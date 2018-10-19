@@ -13,7 +13,7 @@
 
 ### 下载文件
 
-整个文件大小在1.5g左右,放到docker环境中.api项目可以调整镜像的版本,1.0.2为log的版本,1.0.3为没有log版本,通过`docker logs <镜像id>`来查单个镜像的log
+整个文件大小在1.5g左右,放到docker环境中.api项目可以调整镜像的版本,1.0.2为log的版本,1.0.3为没有log版本,通过`docker logs <容器id>`来查单个镜像的log
 
 ### 执行文件
 
@@ -38,8 +38,8 @@ spring:
 com:
     mtdhb:
         api:
-			nodejs:
-                url: http://get:3333
+	    nodejs:
+	        url: http://get:3333
 
 ```
 
