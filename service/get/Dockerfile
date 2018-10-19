@@ -9,12 +9,9 @@ WORKDIR /usr/src/node
 #复制所有文件到 工作目录。
 COPY . /usr/src/node
 
-RUN chmod +x hold.sh
-
 #RUN yarn   global add pm2   --privileged=true
 
 RUN yarn
 
-EXPOSE 3333
-
+CMD ["yarn","dev","&"]
 

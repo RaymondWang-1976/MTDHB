@@ -17,7 +17,7 @@ services:
       - '3306:3306'
   api:
     #build: ./api
-    image: 'fulln/mtdhb-api:1.0.0'
+    image: 'fulln/mtdhb-api:1.0.2'
     container_name: api
     ports:
       - "8080:8080"
@@ -29,24 +29,27 @@ services:
       - net-spring-db
     depends_on:
       - db          
-      - redis        
+      - redis  
+      - get      
   redis:
     restart: always
     image: redis:4.0.9
     container_name: redis
+    networks:
+      - net-spring-db 
     ports: 
       - "6379:6379"
   get:
     container_name: get   
     #pid: "host"
-    image: 'fulln/mtdhb-get:1.0.0'
+    image: 'fulln/mtdhb-get:1.0.2'
     #build: ./get
     ports:
-      - "3333:3333"
-      - "12266:22"
-    command: /bin/bash /run.sh   
+      - "3333:3333"      
+    networks:
+      - net-spring-db 
     volumes: 
-      - ./logs/:/opt/get/log/ 
+      - ./logs/:/usr/src/node/log/ 
   # nginx:    
   #   restart: always
   #   image: nginx:1.12.2

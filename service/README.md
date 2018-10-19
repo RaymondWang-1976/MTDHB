@@ -13,18 +13,12 @@
 
 ### 下载文件
 
-整个文件大小在1.5g左右,放到docker环境中
+整个文件大小在1.5g左右,放到docker环境中.api项目可以调整镜像的版本,1.0.2为log的版本,1.0.3为没有log版本,通过`docker logs <镜像id>`来查单个镜像的log
 
 ### 执行文件
 
- 进入service目录下执行`sh run.sh`,整个过程大概3-5分钟，完成后可以通过`docker ps`查看运行中的镜像，或者通过`docker logs <镜像id>`来查单个镜像的log，注意这里的get项目还没有启动的所以`curl 127.0.0.1:3333`是返回失败的
+ 进入service目录下执行`sh run.sh`,整个过程大概3-5分钟，完成后可以通过`docker ps`查看运行中的镜像.
  
-### 运行get项目
-
- get项目由于我使用的centos的镜像，我就直接开放了ssh服务，开放的端口为12266，root初始密码为`qq1203943228`，可以自行在docker-compose.yml修改端口。
- 
- 这个项目由于对nodejs研究不深,dockerfile没能做成直接运行的docker，被迫用centos的镜像做成了载体，需要进入载体手动开启get项目。用ssh服务进入get 的docker 镜像中后执行`sh /run1.sh`就开启了get项目（docker exec 进入会导致项目不能运行，只能用ssh进入），退出镜像`exit`,退出镜像后再执行`curl 127.0.0.1:3333`返回成功的话说明get项目运行成功
-
 ## docker更新
 
  服务端使用的是docker-compose.yml文件启动的多个docker镜像,2个项目的镜像文件都是已经打包好的，但是关于更新也是做了对应预留，需要更新的话请注释掉service目录下run.sh中docker load的部分
@@ -39,8 +33,18 @@ spring:
         database: 0
         port: 6379              
 ```
+ 连接本地node的部分也需要修改
+```
+com:
+    mtdhb:
+        api:
+			nodejs:
+                url: http://get:3333
+
+```
 
  数据库连接部分也需要修改
+ 
 
 ```
 spring:
@@ -58,9 +62,7 @@ spring:
 
 ### get项目更新
 
- get项目放在了 get 镜像中的 /opt/get下，在镜像运行的情况下直接ssh进去然后替换文件即可。 
-
- docker-compose.yml文件中还有关于nginx，如果有需要放开即可。如果布置在生产中，需要开放对应端口号。
+ get项目与api项目更新类似,修改docker-compose.yml文件，找到get项目，放开build注释，然后注释掉image.将更新后的项目放到get文件夹下,再执行一次service目录下的run.sh即可
 
 欢迎提出意见 [@fulln](https://github.com/fulln)
  
