@@ -21,7 +21,7 @@
 | [mtdhb/www](https://github.com/mtdhb/www) | 网页端 |
 | [mtdhb/api](https://github.com/mtdhb/api) | 服务端 |
 | [mtdhb/get](https://github.com/mtdhb/get) | 领取端 |
-| [mtdhb/mp](https://github.com/mtdhb/mp) | 微信小程序 “一键最佳”|
+| [mtdhb/miniprogram](https://github.com/mtdhb/miniprogram) | 微信小程序 “一键最佳”|
 | [mtdhb/old](https://github.com/mtdhb/old) | 旧版（不再维护，仅供参考） |
 
 ## 学习交流
