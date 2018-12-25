@@ -33,15 +33,12 @@
   </tr>
   <tr></tr>
   <tr>
-    <td align="center" width="300">
-      <img src="https://user-images.githubusercontent.com/8413791/38773412-3e896818-407e-11e8-84d4-842fa3b04d08.png"><p>请加上面的微信号邀请你入群</p>
-    </td>
     <td align="center" width="400">
       <table>
-        <tr><td>1群：246080018（2000人空）</td></tr>
-        <tr><td>2群：583997433（500人满）</td></tr>
-        <tr><td>3群：617166836（2000人满）</td></tr>
-        <tr><td>452599197（软件开发交流）</td></tr>
+        <tr><td>1群：246080018（2000人）</td></tr>
+        <tr><td>2群：583997433（500人）</td></tr>
+        <tr><td>3群：617166836（2000人）（建议）</td></tr>
+        <tr><td>452599197（开发者交流群）</td></tr>
       </table>
     </td>
   </tr>
