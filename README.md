@@ -33,6 +33,7 @@
   </tr>
   <tr></tr>
   <tr>
+    <td>微信群不活跃，已关闭邀请</td>
     <td align="center" width="400">
       <table>
         <tr><td>1群：246080018（2000人）</td></tr>
