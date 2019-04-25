@@ -2,9 +2,7 @@
 
 [![GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](LICENSE)
 
-欢迎注册使用 <https://mtdhb.org>，原 .com 域名已转让，请认准 .org。
-
-> .com 域名 已于 2018/09/19 在阿里云出售成功，新站长的任何行为与本团队无关
+# 网站运行一年多，饿了么和美团均已失效，感谢大家这些日子以来的支持。
 
 由于饿了么、美团对旧版辅助 [mtdhb/old](https://github.com/mtdhb/old) 增加了一些限制，导致无法继续为大家提供公共服务。
 
